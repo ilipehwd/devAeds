@@ -1,0 +1,1 @@
+## Códigos feitos para resolução de atividades da disciplina Algoritmos e Estrutura de Dados
